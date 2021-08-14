@@ -11,9 +11,12 @@ Acceptance Criteria:
 
 ![Mockup](https://github.com/eoentungz/nba-profiles/blob/main/mockup.png)
 
-Be creative on how the page look and make the page responsive.
+* Be creative on how the page look and make the page responsive.
+* Test components with react-testing-library
+
 
 ### References
 * https://reactjs.org/docs/create-a-new-react-app.html
 * https://www.balldontlie.io/#players
 * https://material-ui.com
+* https://testing-library.com/docs/react-testing-library/intro/
