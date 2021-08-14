@@ -9,7 +9,7 @@ Acceptance Criteria:
 3. User can switch between tile and list.
 4. When in tile mode, show an avatar icon with first letter of name.
 
-![Mockup](https://github.com/eoentungz/nba-profiles/main/mockup.png)
+![Mockup](https://github.com/eoentungz/nba-profiles/blob/main/mockup.png)
 
 Be creative on how the page look and make the page responsive.
 
